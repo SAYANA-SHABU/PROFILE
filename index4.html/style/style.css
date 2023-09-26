@@ -1,0 +1,25 @@
+header a{
+   margin-left: 50px;
+   padding: 5px;
+   border: 1px solid white;
+   text-decoration:none;
+}
+header{
+    border: 2px solid white;
+}
+*{background-color:lightgreen;}
+.header{
+    margin-left: 600px;
+    font-size:xx-large ;
+    text-decoration: underline;
+   
+}
+header a:hover{
+    background-color:darkgreen;
+    color:white;
+}
+#logo{
+    height: 150px;
+    margin-left: 1100px;
+    border: 2px solid black;
+}
